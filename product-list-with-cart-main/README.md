@@ -1,4 +1,17 @@
-# Frontend Mentor - Product list with cart
+
+# Product List with Cart
+
+Este projeto exibe uma lista de produtos com funcionalidade de carrinho de compras.
+
+## Funcionalidades
+- Carregamento dinâmico de produtos a partir de `data.json`
+- Adicionar e remover itens do carrinho
+- Aumentar e diminuir quantidade dos produtos
+- Cálculo automático de subtotal e total
+
+Desenvolvido com HTML, CSS e JavaScript puro.
+
+<!-- # Frontend Mentor - Product list with cart
 
 ![Design preview for the Product list with cart coding challenge](./preview.jpg)
 
@@ -97,4 +110,4 @@ We love receiving feedback! We're always looking to improve our challenges and o
 
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
-**Have fun building!** 🚀
+**Have fun building!** 🚀 -->
