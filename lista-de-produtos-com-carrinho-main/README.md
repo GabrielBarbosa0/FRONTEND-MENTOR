@@ -1,8 +1,8 @@
 # Atividade 01 - HTML DOM - Programação para Web
 
-## Professor: Augusto César Oliveira
-## Disciplina: Programação IV
-## Discente: Gabriel Gomes Barbosa
+### Professor: Augusto César Oliveira
+### Disciplina: Programação IV
+### Discente: Gabriel Gomes Barbosa
 
 # 🍰 Vitrine de Sobremesas com Carrinho de Compras
 
